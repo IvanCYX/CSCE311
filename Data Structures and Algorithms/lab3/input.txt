@@ -1,0 +1,13 @@
+ID	first_name	last_name	career	gender
+109	Bob	  Dylan	Music	Male
+303	Mark	Wahlberg	Music	Male
+203	Jerry	Garcia	Music	Male
+409	Tom	Waits	Music	Male
+302	Sinead	O'Connor	Music	Female
+112	Beyonce  	Knowles	Music	Female
+209	Justin	Timberlake	Music	Male
+112	Beyonce	Knowles	Acting	Female
+409	Tom	  Waits	Acting	Male
+303	Mark	Wahlberg	Acting	Male
+117	Winona  	Ryder	Acting	Female
+209	Justin	Timberlake	Acting	Male

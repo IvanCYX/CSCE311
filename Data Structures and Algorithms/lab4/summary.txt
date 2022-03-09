@@ -1,0 +1,7 @@
+Ivan Cheah 89679532
+
+Sorted in order of generic python sorting function, bubble sort, selection sort, and insertion sort:
+
+
+
+
